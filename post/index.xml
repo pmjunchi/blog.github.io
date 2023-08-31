@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我的第一篇博客</title>
+      <title>打造最好的产品</title>
       <link>http://localhost:1313/post/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/my-first-post/</guid>
-      <description>这是我的第一篇博客 这是我的第一篇博客 个人网站链接</description>
+      <description>你好，欢迎来到我的博客，可关注公众号：打造最好的产品。 我是吴俊驰，一名略懂技术、懂业务、懂管理、懂健康、懂赚钱的产品经理。 对于什么是打造最好</description>
     </item>
     
   </channel>
