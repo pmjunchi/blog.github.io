@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吴俊驰的个人博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 吴俊驰的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      
+        <description>&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;这是我的第一篇博客&lt;/h1&gt;
+&lt;p&gt;这是我的第一篇&lt;strong&gt;博客&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wujunchi.com&#34;&gt;个人网站链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/hugo/hugo.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
